@@ -1,0 +1,4 @@
+spacy
+unidecode
+pytorch_transformers
+streamlit
